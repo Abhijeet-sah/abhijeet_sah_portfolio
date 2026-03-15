@@ -102,12 +102,6 @@ abhijeet_sah_portfolio/
 │
 └── images/
     │── profile.jpg
-    │── hero-bg.jpg
-    │── project1.jpg
-    │── project2.jpg
-    │── project3.jpg
-    │── profile.jpg
-    │── hero-bg.jpg
     │── project1.jpg
     │── project2.jpg
     │── project3.jpg
