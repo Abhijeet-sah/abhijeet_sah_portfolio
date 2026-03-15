@@ -1,7 +1,7 @@
 # 🌐 Abhijeet Sah | Portfolio Website
 
 <p align="center">
-  <a href=("https://abhijeet-sah.github.io/abhijeet_sah_portfolio/)"><img src="https://img.shields.io/badge/Live%20Demo-Visit%20Portfolio-purple?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://abhijeet-sah.github.io/abhijeet_sah_portfolio/"><img src="https://img.shields.io/badge/Live%20Demo-Visit%20Portfolio-purple?style=for-the-badge" alt="Live Demo"></a>
   <a href="https://github.com/Abhijeet-sah"><img src="https://img.shields.io/badge/GitHub-Abhijeet--sah-black?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/abhijeet-sah-1a48602ab/"><img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Sah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
@@ -14,7 +14,7 @@
 
 ## 🚀 Live Website
 🔗 **Portfolio Link:**  
-[https://abhijeet-sah.github.io/abhijeet_portfolio/](https://abhijeet-sah.github.io/abhijeet_portfolio/)
+[https://abhijeet-sah.github.io/abhijeet_sah_portfolio/](https://abhijeet-sah.github.io/abhijeet_sah_portfolio/)
 
 ---
 
@@ -93,7 +93,7 @@ A machine learning project developed to identify fraudulent financial transactio
 ## 📁 Folder Structure
 
 ```bash
-abhijeet_portfolio/
+abhijeet_sah_portfolio/
 │── index.html
 │── style.css
 │── script.js
@@ -101,6 +101,11 @@ abhijeet_portfolio/
 │── resume.pdf
 │
 └── images/
+    │── profile.jpg
+    │── hero-bg.jpg
+    │── project1.jpg
+    │── project2.jpg
+    │── project3.jpg
     │── profile.jpg
     │── hero-bg.jpg
     │── project1.jpg
